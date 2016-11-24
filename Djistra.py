@@ -125,7 +125,8 @@ def tabelaRota(resultado):
 
    raw_input("\nPressione ENTER para continuar...")
 
-
+# ele reconhece como a função principal?
+# isto, é, main é palavra reservada?
 def main():
 
    grafo = gerarGrafo(5)
